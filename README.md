@@ -25,8 +25,10 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imakshaysoni/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1A84dDZxmzSqL9jfx93XXfUAJOwJhdO04/view)
-- 📚 &nbsp; When I am free, I watch videos related to technologies, history, and current affairs and watch movies. Checkout my favorites - [ByteByteGo](https://www.youtube.com/@ByteByteGo), [StudyIQ IAS](https://www.youtube.com/@studyiqofficial), [WorldAffairs](https://www.youtube.com/@WorldAffairsUnacademy), [GetsetflySCIENCE](https://www.youtube.com/@GetSetFly), [Striver Takeufowrd](https://www.youtube.com/@takeUforward)
-<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="" height='28px'/></a>
+- 📚 &nbsp; When I am free, I watch videos related to technologies, history, and current affairs and watch movies. Checkout my favorites - 
+[ByteByteGo](https://www.youtube.com/@ByteByteGo), [Striver Takeufowrd](https://www.youtube.com/@takeUforward), [GetsetflySCIENCE](https://www.youtube.com/@GetSetFly), [WorldAffairs](https://www.youtube.com/@WorldAffairsUnacademy)
+
+
 <br/>
 <br/>
 <!-- About section Ends -->
