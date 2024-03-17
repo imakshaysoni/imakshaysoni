@@ -20,9 +20,9 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Opcito Technologies**
-- 🌱 &nbsp; I’m currently learning System Design; 
+- 🌱 &nbsp; I’m currently learning System Design
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imakshaysoni?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imakshaysoni/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1A84dDZxmzSqL9jfx93XXfUAJOwJhdO04/view)
 - 📚 &nbsp; When I am free, I watch videos related to technologies, history, and current affairs and watch movies. Checkout my favorites - 
@@ -39,10 +39,8 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 [![Top Skills](https://skillicons.dev/icons?i=python,fastapi,aws,docker,kafka,redis,mysql,linux,ubuntu,git,postman,pycharm,notion&perline=16)](https://skillicons.dev)
 <div style="display: flex; justify-content: space-between; width: 120px;">
     <a href="#" style="margin-right: 20px;">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-light.svg" height="48px">
-    </a>
-    <a href="#">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/databricks-light.svg" height="48px">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-dark.svg" height="48px">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/databricks-dark.svg" height="48px">
     </a>
   </div>
 
@@ -52,10 +50,10 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 
 <!-- LeetCode Section -->
 
-##  My LeetCode Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-  
+##  My LeetCode Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+<div>
    <img align="center" src="https://leetcode.card.workers.dev/iamakshaysoni?theme=default&font=baloo&extension=activity&hide_border=true" alt="LeetCode Stats" />
-
+</div>
 <br><br>
 
 
