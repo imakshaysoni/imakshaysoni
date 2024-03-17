@@ -15,7 +15,7 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/imakshaysoni/imakshaysoni/blob/091f1f458505e9ffc4462bd287d862b1f5bdf2cc/techstack.gif" width="36%"/>
   
 ### 🧐 More About Me:
 
@@ -36,7 +36,7 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 <!-- Skills section -->
 
 ### Top Skills:
-[![Top Skills](https://skillicons.dev/icons?i=python,fastapi,aws,docker,kafka,redis,mysql,linux,ubuntu,git,postman,pycharm,notion&perline=16)](https://skillicons.dev)
+[![Top Skills](https://skillicons.dev/icons?i=python,fastapi,cpp,aws,docker,kafka,redis,mysql,mongodb,linux,ubuntu,git,postman,pycharm,stackoverflow,notion&perline=8)](https://skillicons.dev)
 <div style="display: flex; justify-content: space-between; width: 120px;">
     <a href="#" style="margin-right: 20px;">
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-dark.svg" height="48px">
@@ -50,12 +50,11 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 
 <!-- Top Repos Section -->
 ##  My Github Top Repos <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-<div>
- <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=LeetCode" alt="Top Repos" />
- <br></br>
- <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=native_sla_backend_service" alt="Top Repos" />
- 
+<div style="display: flex; justify-content: space-between;">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=LeetCode" alt="Top Repos" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=Option_Price_Prediction_ML" alt="Top Repos" />
 </div>
+
 <!-- Top Repos Section Ends-->
 
 <!-- LeetCode Section -->
