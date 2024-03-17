@@ -11,7 +11,7 @@
 
 <!-- About section -->
 
-I am a versatilist and easily adapt to different hats (Python Developer🌐, Data Engineer 🤖 or LeetCoder - DSA 🎨 or Begineer level system design architect) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Python Developer🌐, Data Engineer 🤖, LeetCoder📝 or Begineer Level System Designer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -36,14 +36,15 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 <!-- Skills section -->
 
 ### Top Skills:
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)![FastApi](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![Docker](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![ASpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Data Structure & Alogrithms](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Top Skills](https://skillicons.dev/icons?i=python,fastapi,aws,docker,kafka,redis,mysql,linux,ubuntu,git,postman,pycharm,notion&perline=16)](https://skillicons.dev)
+<div style="display: flex; justify-content: space-between; width: 120px;">
+    <a href="#" style="margin-right: 20px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-light.svg" height="48px">
+    </a>
+    <a href="#">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/databricks-light.svg" height="48px">
+    </a>
+  </div>
 
 <!-- Skills section ends-->
 
