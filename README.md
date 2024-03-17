@@ -51,8 +51,8 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 <!-- Top Repos Section -->
 ##  My Github Top Repos <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <div style="display: flex; justify-content: space-between;">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=LeetCode" alt="Top Repos" />
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=Option_Price_Prediction_ML" alt="Top Repos" />
+    <a href='https://github.com/imakshaysoni/LeetCode'><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=LeetCode" alt="Top Repos" /></a>
+    <a href='https://github.com/imakshaysoni/Option_Price_Prediction_ML'><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=imakshaysoni&repo=Option_Price_Prediction_ML" alt="Top Repos" /></a>
 </div>
 
 <!-- Top Repos Section Ends-->
@@ -61,7 +61,7 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 
 ##  My LeetCode Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <div>
-   <img align="center" src="https://leetcode.card.workers.dev/iamakshaysoni?theme=default&font=baloo&extension=activity&hide_border=true" alt="LeetCode Stats" />
+   <a href='https://leetcode.com/iamakshaysoni'><img align="center" src="https://leetcode.card.workers.dev/iamakshaysoni?theme=default&font=baloo&extension=activity&hide_border=true" alt="LeetCode Stats" /></a>
 </div>
 <br><br>
 
@@ -70,7 +70,7 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  <div>
-   <img align="center" src="https://streak-stats.demolab.com?user=imakshaysoni&hide_border=true" alt="Gift's LangStat" />
+   <a href='https://github.com/imakshaysoni?tab=repositories'><img align="center" src="https://streak-stats.demolab.com?user=imakshaysoni&hide_border=true" alt="Gift's LangStat" /></a>
    <!-- Commented section 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakshaysoni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/> -->
 </div>
@@ -80,12 +80,12 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 <details>
   <summary><b>:zap: LeetCode Profile Stat</b></summary>
   <br>
-  <img src="https://leetcode-stats.vercel.app/api?username=iamakshaysoni&theme=Light" />
+  <a href="https://leetcode.com/iamakshaysoni/"><img src="https://leetcode-stats.vercel.app/api?username=iamakshaysoni&theme=Light" /></a>
 </details>
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <br>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=imakshaysoni&show_icons=true" />
+  <a href="https://github.com/imakshaysoni/"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=imakshaysoni&show_icons=true" /></a>
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
