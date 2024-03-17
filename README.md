@@ -1,8 +1,15 @@
+<!-- Heading -->
 ## Hey 👋, I'm Akshay Soni!
-<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://leetcode.com/iamakshaysoni/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+ 
+<!-- Connection section -->
 
+<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height='28px'/></a>
+<a href='https://leetcode.com/iamakshaysoni/'><img align='left' alt="leetcode" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height='28px'/></a>
+<a href='https://www.instagram.com/akshay_soni1/'><img alt="instagram" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" height='28px'/></a>
+
+<!-- Connection section Ends -->
+
+<!-- About section -->
 
 I am a versatilist and easily adapt to different hats (Python Developer🌐, Data Engineer 🤖 or LeetCoder - DSA 🎨 or Begineer level system design architect) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
@@ -17,10 +24,14 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imakshaysoni?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imakshaysoni/)
-- 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1A84dDZxmzSqL9jfx93XXfUAJOwJhdO04/view)
+- 📚 &nbsp; When I am free, I watch videos related to technologies, history, and current affairs and watch movies. Checkout my favorites - [ByteByteGo](https://www.youtube.com/@ByteByteGo), [StudyIQ IAS](https://www.youtube.com/@studyiqofficial), [WorldAffairs](https://www.youtube.com/@WorldAffairsUnacademy), [GetSatisFyWithScience](https://www.youtube.com/@GetSetFly), [Striver Takeufowrd](https://www.youtube.com/@takeUforward)
+<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="" height='28px'/></a>
+<br/>
+<br/>
+<!-- About section Ends -->
 
-<br>
+<!-- Skills section -->
 
 ### Top Skills:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)![FastApi](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -32,21 +43,39 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 ![Data Structure & Alogrithms](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!-- Skills section ends-->
 
-<br>
+<br/>
+
+<!-- LeetCode Section -->
+
+##  My LeetCode Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+  
+   <img align="center" src="https://leetcode.card.workers.dev/iamakshaysoni?theme=default&font=baloo&extension=activity&hide_border=true" alt="LeetCode Stats" />
+
+<br><br>
+
+
+ 
  <!-- GitHub section -->
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
  <div>
    <img align="center" src="https://streak-stats.demolab.com?user=imakshaysoni&hide_border=true" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakshaysoni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <!-- Commented section 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakshaysoni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/> -->
 </div>
 
 <br><br>
 **Expand to view**
 <details>
+  <summary><b>:zap: LeetCode Profile Stat</b></summary>
+  <br>
+  <img src="https://leetcode-stats.vercel.app/api?username=iamakshaysoni&theme=Light" />
+</details>
+<details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <br>
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=imakshaysoni&show_icons=true" />
 </details>
 <details>
@@ -57,12 +86,11 @@ I am a versatilist and easily adapt to different hats (Python Developer🌐, Dat
 </details>
 
 <!-- GitHub section: END -->
-<br>
 
-<br>
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<!-- Profile Views 
+# not pushing it now.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imakshaysoni&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+-->
 
 <!-- THE END -->
-<br>
