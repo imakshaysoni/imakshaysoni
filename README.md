@@ -11,7 +11,7 @@
 
 <!-- About section -->
 
-I am a versatilist and easily adapt to different hats (Python Developer🌐, Data Engineer 🤖, LeetCoder📝 or Begineer Level System Designer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a versatile professional comfortable wearing different hats: Python Developer 📝, Data Engineer 🤖, LeetCoder 💻, or even a Beginner Level System Designer 🛠️. I thrive on exploring new tech stacks 🌐 and leveraging them to craft innovative solutions. Let's build cool stuff together! 😊
 <br/>
 <br/>
 
