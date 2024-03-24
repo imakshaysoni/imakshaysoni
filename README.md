@@ -25,6 +25,8 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imakshaysoni/)
 - 📝 &nbsp; Checkout my [resume](https://imakshaysoni.github.io/resume/)
+- 💡  &nbsp; Checkout my [LeetCode](https://www.linkedin.com/in/imakshaysoni/)
+-   
 - 📚 &nbsp; When I am free, I watch videos related to technologies, history, and current affairs and watch movies. Checkout my favorites - 
 [ByteByteGo](https://www.youtube.com/@ByteByteGo), [Striver Takeufowrd](https://www.youtube.com/@takeUforward), [GetsetflySCIENCE](https://www.youtube.com/@GetSetFly), [WorldAffairs](https://www.youtube.com/@WorldAffairsUnacademy)
 
