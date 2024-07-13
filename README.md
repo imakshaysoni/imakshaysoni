@@ -2,8 +2,7 @@
 ## Hey 👋, I'm Akshay Soni!
  
 <!-- Connection section -->
-
-<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height='28px'/></a>
+<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" height='28px'/></a>
 <a href='https://leetcode.com/iamakshaysoni/'><img align='left' alt="leetcode" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height='28px'/></a>
 <a href='https://www.instagram.com/akshay_soni1/'><img alt="instagram" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" height='28px'/></a>
 
@@ -12,6 +11,8 @@
 <!-- About section -->
 
 I'm a versatile professional comfortable wearing different hats: Python Developer 📝, Data Engineer 🤖, LeetCoder 💻, or even a Beginner Level System Designer 🛠️. I thrive on exploring new tech stacks 🌐 and leveraging them to craft innovative solutions. Let's build cool stuff together! 😊
+<br/>
+Checkout my portfolio [Here](https://akshaysoni.me)
 <br/>
 <br/>
 
