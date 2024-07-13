@@ -2,10 +2,11 @@
 ## Hey 👋, I'm Akshay Soni!
  
 <!-- Connection section -->
-<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" height='28px'/></a>
-<a href='https://leetcode.com/iamakshaysoni/'><img align='left' alt="leetcode" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height='28px'/></a>
-<a href='https://www.instagram.com/akshay_soni1/'><img alt="instagram" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" height='28px'/></a>
-
+<div style="display: flex; align-items: center; gap: 10px;">
+<a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="assets/svg/linkedin.svg" height='28px'/></a>
+<a href='https://leetcode.com/iamakshaysoni/'><img align='left' alt="leetcode" src="assets/svg/leetcode.svg" height='28px'/></a>
+<a style="padding-top:10px" href='https://www.instagram.com/akshay_soni1/'><img alt="instagram" src="assets/svg/instagram.svg" height='28px'/></a>
+</div>
 <!-- Connection section Ends -->
 
 <!-- About section -->
@@ -16,7 +17,7 @@ I'm a versatile professional comfortable wearing different hats: Python Develope
 Checkout my portfolio [Here](https://akshaysoni.me)
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/imakshaysoni/imakshaysoni/blob/091f1f458505e9ffc4462bd287d862b1f5bdf2cc/techstack.gif" width="36%"/>
+<img align="right" alt="GIF Image" src="assets/icons/techstack.gif" width="36%"/>
   
 ### 🧐 More About Me:
 
