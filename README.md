@@ -12,8 +12,8 @@
 
 I'm a versatile professional comfortable wearing different hats: Python Developer 📝, Data Engineer 🤖, LeetCoder 💻, or even a Beginner Level System Designer 🛠️. I thrive on exploring new tech stacks 🌐 and leveraging them to craft innovative solutions. Let's build cool stuff together! 😊
 <br/>
-Checkout my portfolio [Here](https://akshaysoni.me)
 <br/>
+Checkout my portfolio [Here](https://akshaysoni.me)
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/imakshaysoni/imakshaysoni/blob/091f1f458505e9ffc4462bd287d862b1f5bdf2cc/techstack.gif" width="36%"/>
