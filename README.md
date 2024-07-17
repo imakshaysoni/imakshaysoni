@@ -1,7 +1,7 @@
 <!-- Heading -->
 ## Hey 👋, I'm Akshay Soni!
- 
 <!-- Connection section -->
+![](https://komarev.com/ghpvc/?username=imakshaysoni)
 <div style="display: flex; align-items: center; gap: 10px;">
 <a href='https://www.linkedin.com/in/imakshaysoni/'><img align='left' alt="linkedin" src="assets/svg/linkedin.svg" height='28px'/></a>
 <a href='https://leetcode.com/iamakshaysoni/'><img align='left' alt="leetcode" src="assets/svg/leetcode.svg" height='28px'/></a>
